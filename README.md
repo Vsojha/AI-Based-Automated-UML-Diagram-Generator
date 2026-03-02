@@ -5,9 +5,12 @@ The AI-Based Automated UML Diagram Generator is an intelligent system that autom
 AI-UML-Generator/
 │
 ├── data/
+
 ├── models/
+
 ├── src/
 │   ├── preprocessing.py
+
 │   ├── uml_extractor.py
 │   ├── relationship_classifier.py
 │   ├── plantuml_generator.py
