@@ -15,3 +15,17 @@ AI-UML-Generator/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
+
+Requirements.txt
+spacy
+streamlit
+lxml
+transformers
+torch
+
+
+After installing:
+
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
